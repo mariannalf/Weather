@@ -1,0 +1,58 @@
+header {
+    text-align: center;
+}
+
+.top_menu a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.top_menu {
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+img {
+    display: block;
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+
+.region {
+    text-align: left;
+    padding-block: 30px;
+    font-weight: bolder;
+    font-size: 25px;
+    width: 600px;
+    margin: auto;
+}
+
+.region div {
+    display: inline-block;
+    vertical-align: middle;
+
+
+}
+
+.continent {
+    font-weight: bolder;
+    font-size: 25px;
+    width: 150px;
+
+}
+
+.city {
+    font-weight: normal;
+    font-size: 18px;
+    display: grid;
+
+}
+
+.city a {
+    display: block;
+}
